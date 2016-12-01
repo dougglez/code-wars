@@ -1,3 +1,5 @@
+https://www.codewars.com/kata/find-the-position/train/javascript
+
 When provided with a letter, return its position in the alphabet.
 
 Input :: "a"
