@@ -1,0 +1,1 @@
+The push() method adds new items to the end of an array, and returns the new length. Your task is to figure out how this functionality works and write your own that works in the exact same way. Array.prototype.push an Array.prototype.slice have been disabled.
