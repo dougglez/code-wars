@@ -1,0 +1,1 @@
+[CodeWars](https://www.codewars.com/kata/sum-without-highest-and-lowest-number/javascript)
